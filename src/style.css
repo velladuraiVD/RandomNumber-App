@@ -1,0 +1,29 @@
+
+
+#div1{
+    margin-left: 40%;
+    margin-top: 20%;
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 250px;
+    border-radius: 30px;
+    
+}
+
+#btn{
+    margin-left: 50px;
+    background-color: orangered;
+    padding: 10px;
+    border: solid black;
+    border-radius: 20px;
+    color: whitesmoke;
+
+}
+
+#result{
+    text-align: center;
+    margin-top: 10px;
+    font-size: xx-large;
+   
+}
